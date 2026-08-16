@@ -1,4 +1,9 @@
-# GLM Vision — 图片识别 Skill
+# GLM Vision — Codex Skill：图片识别 / OCR
+
+一个开源的 **Codex Skill**：用智谱 **GLM 免费视觉模型**（glm-4.6v-flash）实现**图片识别、截图 OCR、文字提取、图表与公式识别、图片描述**。适合中文图片、扫描件、界面截图、论文图表等场景，主模型不支持图片输入时，用它把图片转成文字再继续推理。
+
+**关键词**：codex skill · image recognition · OCR · 图片识别 · 截图文字提取 · 智谱 GLM · zhipu vision · 免费 API · agent
+
 
 用智谱免费视觉模型（glm-4.6v-flash）识别图片、截图、扫描件：OCR 文字提取、图表/公式识别、图片描述、界面截图解读。
 
