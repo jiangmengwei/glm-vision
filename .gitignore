@@ -1,0 +1,5 @@
+# 本地配置（含真实 API key，请勿上传）
+config.json
+
+# macOS 杂项
+.DS_Store

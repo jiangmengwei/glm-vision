@@ -1,0 +1,7 @@
+interface:
+  display_name: "图片识别 (GLM Vision)"
+  short_description: "上传图片后自动识别内容、OCR、描述图片"
+  default_prompt: "Use $glm-vision to recognize the image I upload."
+
+policy:
+  allow_implicit_invocation: true
